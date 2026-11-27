@@ -4,7 +4,7 @@
 
 I'm Fotis. I run a small studio called **423** from Kefalonia, Greece. I build my own apps and websites, and more and more of them are written in **Rust**. A team of AI agents (seven cats, led by my real cat Ross) helps me run everything.
 
-## Projects
+## Apps
 
 <table>
   <tr>
@@ -13,15 +13,28 @@ I'm Fotis. I run a small studio called **423** from Kefalonia, Greece. I build m
   </tr>
   <tr>
     <td align="center"><img src="assets/4elements.png" width="72" alt="4 Elements logo"></td>
-    <td><b><a href="https://massage4kefalonia.com">4 Elements Massage</a></b><br>Website for our massage studio in Kefalonia. Rewritten in Rust (Axum + Leptos).</td>
+    <td><b><a href="https://massage4kefalonia.com">4 Elements Massage</a></b><br>Website, booking and reminders for our massage studio in Kefalonia. Rewritten in Rust (Axum + Leptos) and live.</td>
+  </tr>
+</table>
+
+## Tools we built
+
+<table>
+  <tr>
+    <td width="96" align="center"><img src="assets/tool-rust.png" width="72" alt="Rust rewrite icon"></td>
+    <td><b>Rust rewrite method</b><br>Our way to move a live app to Rust with nothing breaking: record every real answer and outgoing call of the old app, replay them against the new one, compare screenshots pixel by pixel, then switch over with a one-step rollback. 4 Elements went live this way; Locit is next.</td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/agentos.png" width="72" alt="Agent OS icon"></td>
-    <td><b>Agent OS</b><br>My command centre for three machines (a server, a desktop and a home NAS): health, scheduled jobs, a second brain and the AI agents.</td>
+    <td align="center"><img src="assets/tool-video.png" width="72" alt="Video studio icon"></td>
+    <td><b>AI video ad studio</b><br>One short line in, a finished ad out: concepts to pick from, script and shot list, AI-generated footage (Seedance), motion graphics (Remotion) and 3D (Blender), with real costs shown before anything is spent.</td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/423.png" width="72" alt="423 dot logo"></td>
-    <td><b>423 Dots</b><br>My own design system: an 8 px dot grid, colours taken from Ross's black fur, one amber accent, Poppins.</td>
+    <td align="center"><img src="assets/tool-sync.png" width="72" alt="Three machines icon"></td>
+    <td><b>One setup, three machines</b><br>The same rules, skills and AI-agent settings on my server, desktop and home NAS, kept in one place and synced with a single command.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/tool-heal.png" width="72" alt="Self-healing icon"></td>
+    <td><b>Self-healing Locit</b><br>A watchdog that brings the app back if it stops, nightly backups, and a restore test that proves the backups actually work.</td>
   </tr>
 </table>
 
