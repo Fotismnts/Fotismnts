@@ -31,13 +31,13 @@ AI agents that run on Orca with Claude. Each one has a job, checks it every morn
 
 <table>
   <tr>
-    <td align="center" width="14%"><img src="assets/cat-ross.png" width="80" alt="Ross"><br><b>Ross</b><br><sub>The boss. Morning brief, weekly review, hands out the work.</sub></td>
-    <td align="center" width="14%"><img src="assets/cat-makis.png" width="80" alt="Makis"><br><b>Makis</b><br><sub>Security checks.</sub></td>
-    <td align="center" width="14%"><img src="assets/cat-babi.png" width="80" alt="Babi"><br><b>Babi</b><br><sub>Updates and new AI tools.</sub></td>
-    <td align="center" width="14%"><img src="assets/cat-argiris.png" width="80" alt="Argiris"><br><b>Argiris</b><br><sub>Backups, with a test restore every week.</sub></td>
-    <td align="center" width="14%"><img src="assets/cat-freya.png" width="80" alt="Freya"><br><b>Freya</b><br><sub>Locit, 4 Elements and SEO.</sub></td>
-    <td align="center" width="14%"><img src="assets/cat-peri.png" width="80" alt="Peri"><br><b>Peri</b><br><sub>Home media server.</sub></td>
-    <td align="center" width="14%"><img src="assets/cat-eevee.png" width="80" alt="Eevee"><br><b>Eevee</b><br><sub>Design and new ideas.</sub></td>
+    <td align="center" valign="top" width="14%"><img src="assets/cat-ross.png" width="80" alt="Ross"><br><b>Ross</b><br><sub>The boss. Morning brief, weekly review, hands out the work.</sub></td>
+    <td align="center" valign="top" width="14%"><img src="assets/cat-makis.png" width="80" alt="Makis"><br><b>Makis</b><br><sub>Security checks.</sub></td>
+    <td align="center" valign="top" width="14%"><img src="assets/cat-babi.png" width="80" alt="Babi"><br><b>Babi</b><br><sub>Updates and new AI tools.</sub></td>
+    <td align="center" valign="top" width="14%"><img src="assets/cat-argiris.png" width="80" alt="Argiris"><br><b>Argiris</b><br><sub>Backups, with a test restore every week.</sub></td>
+    <td align="center" valign="top" width="14%"><img src="assets/cat-freya.png" width="80" alt="Freya"><br><b>Freya</b><br><sub>Locit, 4 Elements and SEO.</sub></td>
+    <td align="center" valign="top" width="14%"><img src="assets/cat-peri.png" width="80" alt="Peri"><br><b>Peri</b><br><sub>Home media server.</sub></td>
+    <td align="center" valign="top" width="14%"><img src="assets/cat-eevee.png" width="80" alt="Eevee"><br><b>Eevee</b><br><sub>Design and new ideas.</sub></td>
   </tr>
 </table>
 
